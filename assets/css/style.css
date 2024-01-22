@@ -12,6 +12,7 @@ body{
     align-items: center;
     height: 100vh;
     font-family: 'Manrope', sans-serif;
+    background: #ECF2F8;
 }
 
 .card-container{
